@@ -1,0 +1,12 @@
+img{
+    width: 30px;
+    height: 30px;
+}
+
+.google_button{
+    width: 100%;
+    height: 20%;
+    background-color: white;
+    margin-top: 39px;
+    cursor: pointer;
+}
